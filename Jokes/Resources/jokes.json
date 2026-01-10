@@ -1,0 +1,2738 @@
+[
+  {
+    "type": "wordplay",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything.",
+    "id": 1
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear.",
+    "id": 2
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "He was outstanding in his field.",
+    "id": 3
+  },
+  {
+    "type": "food",
+    "setup": "What do you call fake spaghetti?",
+    "punchline": "An impasta.",
+    "id": 4
+  },
+  {
+    "type": "food",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up.",
+    "id": 5
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish wearing a bowtie?",
+    "punchline": "Sofishticated.",
+    "id": 6
+  },
+  {
+    "type": "food",
+    "setup": "Why did the coffee file a police report?",
+    "punchline": "It got mugged.",
+    "id": 7
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer.",
+    "id": 8
+  },
+  {
+    "type": "animals",
+    "setup": "Why can't you hear a pterodactyl using the bathroom?",
+    "punchline": "Because the P is silent.",
+    "id": 9
+  },
+  {
+    "type": "food",
+    "setup": "What do you call cheese that isn't yours?",
+    "punchline": "Nacho cheese.",
+    "id": 10
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "It was two tired.",
+    "id": 11
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a belt made of watches?",
+    "punchline": "A waist of time.",
+    "id": 12
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts.",
+    "id": 13
+  },
+  {
+    "type": "wordplay",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing, it just waved.",
+    "id": 14
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the math book look sad?",
+    "punchline": "Because it had too many problems.",
+    "id": 15
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dinosaur with an extensive vocabulary?",
+    "punchline": "A thesaurus.",
+    "id": 16
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't oysters donate to charity?",
+    "punchline": "Because they're shellfish.",
+    "id": 17
+  },
+  {
+    "type": "wordplay",
+    "setup": "What did one wall say to the other wall?",
+    "punchline": "I'll meet you at the corner.",
+    "id": 18
+  },
+  {
+    "type": "food",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad dressing.",
+    "id": 19
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop.",
+    "id": 20
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't programmers like nature?",
+    "punchline": "It has too many bugs.",
+    "id": 21
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a sad coffee?",
+    "punchline": "A depresso.",
+    "id": 22
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "id": 23
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a factory that makes okay products?",
+    "punchline": "A satisfactory.",
+    "id": 24
+  },
+  {
+    "type": "objects",
+    "setup": "Why don't calendars ever get lonely?",
+    "punchline": "They have lots of dates.",
+    "id": 25
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a snowman with a six-pack?",
+    "punchline": "An abdominal snowman.",
+    "id": 26
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the picture go to jail?",
+    "punchline": "Because it was framed.",
+    "id": 27
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bee that can't make up its mind?",
+    "punchline": "A maybe.",
+    "id": 28
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cookie go to the doctor?",
+    "punchline": "Because it felt crumbly.",
+    "id": 29
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a boomerang that won't come back?",
+    "punchline": "A stick.",
+    "id": 30
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the stadium get hot after the game?",
+    "punchline": "All the fans left.",
+    "id": 31
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a computer that sings?",
+    "punchline": "A Dell.",
+    "id": 32
+  },
+  {
+    "type": "food",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "It wasn't peeling well.",
+    "id": 33
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a lazy kangaroo?",
+    "punchline": "A pouch potato.",
+    "id": 34
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't mountains ever get cold?",
+    "punchline": "They wear snow caps.",
+    "id": 35
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a snake that works for the government?",
+    "punchline": "A civil serpent.",
+    "id": 36
+  },
+  {
+    "type": "animals",
+    "setup": "Why did the chicken join a band?",
+    "punchline": "Because it had the drumsticks.",
+    "id": 37
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a train carrying bubblegum?",
+    "punchline": "A chew-chew train.",
+    "id": 38
+  },
+  {
+    "type": "food",
+    "setup": "Why did the mushroom go to the party?",
+    "punchline": "Because he was a fungi.",
+    "id": 39
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a duck that gets all A's?",
+    "punchline": "A wise quacker.",
+    "id": 40
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't ghosts like rain?",
+    "punchline": "It dampens their spirits.",
+    "id": 41
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sheep with no legs?",
+    "punchline": "A cloud.",
+    "id": 42
+  },
+  {
+    "type": "food",
+    "setup": "Why did the student eat his homework?",
+    "punchline": "Because the teacher said it was a piece of cake.",
+    "id": 43
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a cow with no legs?",
+    "punchline": "Ground beef.",
+    "id": 44
+  },
+  {
+    "type": "food",
+    "setup": "Why did the orange stop?",
+    "punchline": "It ran out of juice.",
+    "id": 45
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a shoe made of a banana?",
+    "punchline": "A slipper.",
+    "id": 46
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't ants get sick?",
+    "punchline": "Because they have tiny ant-ibodies.",
+    "id": 47
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a pile of cats?",
+    "punchline": "A meowtain.",
+    "id": 48
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the clock get kicked out of the library?",
+    "punchline": "It tocked too much.",
+    "id": 49
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear in the rain?",
+    "punchline": "A drizzly bear.",
+    "id": 50
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the smartphone need glasses?",
+    "punchline": "It lost all its contacts.",
+    "id": 51
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a magic dog?",
+    "punchline": "A labracadabrador.",
+    "id": 52
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't seagulls fly over the bay?",
+    "punchline": "Because then they'd be bagels.",
+    "id": 53
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a group of killer whales playing instruments?",
+    "punchline": "An orca-stra.",
+    "id": 54
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it.",
+    "id": 55
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a tooth in a glass of water?",
+    "punchline": "A one molar solution.",
+    "id": 56
+  },
+  {
+    "type": "animals",
+    "setup": "Why did the frog take the bus to work?",
+    "punchline": "His car got toad away.",
+    "id": 57
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a monkey that loves potato chips?",
+    "punchline": "A chipmunk.",
+    "id": 58
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't elephants use computers?",
+    "punchline": "They're afraid of the mouse.",
+    "id": 59
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a line of rabbits walking backwards?",
+    "punchline": "A receding hare line.",
+    "id": 60
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the gym close down?",
+    "punchline": "It just didn't work out.",
+    "id": 61
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a sleeping pizza?",
+    "punchline": "A piZZZa.",
+    "id": 62
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't vampires go to barbecues?",
+    "punchline": "They don't like steak.",
+    "id": 63
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a can opener that doesn't work?",
+    "punchline": "A can't opener.",
+    "id": 64
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the tree go to the dentist?",
+    "punchline": "It needed a root canal.",
+    "id": 65
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a penguin in the desert?",
+    "punchline": "Lost.",
+    "id": 66
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't basketball players go on vacation?",
+    "punchline": "They'd get called for traveling.",
+    "id": 67
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dog magician?",
+    "punchline": "A labracadabrador.",
+    "id": 68
+  },
+  {
+    "type": "food",
+    "setup": "Why did the melon jump into the lake?",
+    "punchline": "It wanted to be a watermelon.",
+    "id": 69
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a deer with no eyes?",
+    "punchline": "No idea.",
+    "id": 70
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the computer go to the doctor?",
+    "punchline": "It had a virus.",
+    "id": 71
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta.",
+    "id": 72
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't meteorologists ever win at poker?",
+    "punchline": "They always forecast.",
+    "id": 73
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a parade of rabbits hopping backwards?",
+    "punchline": "A receding hare line.",
+    "id": 74
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scarecrow become a successful politician?",
+    "punchline": "He was outstanding in his field.",
+    "id": 75
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a priest that becomes a lawyer?",
+    "punchline": "A father-in-law.",
+    "id": 76
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't lobsters share?",
+    "punchline": "Because they're shellfish.",
+    "id": 77
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a nosy pepper?",
+    "punchline": "Jalapeño business.",
+    "id": 78
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the barber win the race?",
+    "punchline": "He knew a shortcut.",
+    "id": 79
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a rabbit with fleas?",
+    "punchline": "Bugs Bunny.",
+    "id": 80
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't pirates shower before walking the plank?",
+    "punchline": "They'll just wash up on shore later.",
+    "id": 81
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a crow that works out?",
+    "punchline": "A crowbro.",
+    "id": 82
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the lamp get bad grades?",
+    "punchline": "It wasn't very bright.",
+    "id": 83
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a singing laptop?",
+    "punchline": "A Dell.",
+    "id": 84
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't koalas count as bears?",
+    "punchline": "They don't have the right koalifications.",
+    "id": 85
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish that wears a crown?",
+    "punchline": "A king fish.",
+    "id": 86
+  },
+  {
+    "type": "food",
+    "setup": "Why did the baker go to therapy?",
+    "punchline": "He kneaded it.",
+    "id": 87
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a horse that lives next door?",
+    "punchline": "A neigh-bor.",
+    "id": 88
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't teddy bears ever order dessert?",
+    "punchline": "They're always stuffed.",
+    "id": 89
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fly without wings?",
+    "punchline": "A walk.",
+    "id": 90
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the belt get arrested?",
+    "punchline": "For holding up a pair of pants.",
+    "id": 91
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dinosaur that crashes his car?",
+    "punchline": "Tyrannosaurus Wrecks.",
+    "id": 92
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't crabs give to charity?",
+    "punchline": "Because they're shellfish.",
+    "id": 93
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping T-Rex?",
+    "punchline": "A dino-snore.",
+    "id": 94
+  },
+  {
+    "type": "food",
+    "setup": "Why did the lettuce win the race?",
+    "punchline": "It was ahead.",
+    "id": 95
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a nervous javelin thrower?",
+    "punchline": "Shakespeare.",
+    "id": 96
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't scientists trust stairs?",
+    "punchline": "They're always up to something.",
+    "id": 97
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bee that's having a bad hair day?",
+    "punchline": "A frisbee.",
+    "id": 98
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cookie cry?",
+    "punchline": "Because its mother was a wafer so long.",
+    "id": 99
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a well-balanced horse?",
+    "punchline": "Stable.",
+    "id": 100
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't skeletons go trick or treating?",
+    "punchline": "They have no body to go with.",
+    "id": 101
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a grumpy cow?",
+    "punchline": "Moody.",
+    "id": 102
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the girl bring a ladder to the bar?",
+    "punchline": "She heard the drinks were on the house.",
+    "id": 103
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish with two knees?",
+    "punchline": "A two-knee fish.",
+    "id": 104
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't dogs make good dancers?",
+    "punchline": "They have two left feet.",
+    "id": 105
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a camel with three humps?",
+    "punchline": "Humphrey.",
+    "id": 106
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the music teacher need a ladder?",
+    "punchline": "To reach the high notes.",
+    "id": 107
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dog that does magic tricks?",
+    "punchline": "A labracadabrador.",
+    "id": 108
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't some couples go to the gym?",
+    "punchline": "Because some relationships don't work out.",
+    "id": 109
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator.",
+    "id": 110
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the kid throw the clock out the window?",
+    "punchline": "He wanted to see time fly.",
+    "id": 111
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a pig that knows karate?",
+    "punchline": "A pork chop.",
+    "id": 112
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't tennis players ever get married?",
+    "punchline": "Because love means nothing to them.",
+    "id": 113
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a snowman party?",
+    "punchline": "A snowball.",
+    "id": 114
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the bicycle stand by itself?",
+    "punchline": "It was two tired.",
+    "id": 115
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a very small valentine?",
+    "punchline": "A valen-tiny.",
+    "id": 116
+  },
+  {
+    "type": "food",
+    "setup": "Why don't eggs get along?",
+    "punchline": "They crack each other up.",
+    "id": 117
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear caught in a rainstorm?",
+    "punchline": "A drizzly bear.",
+    "id": 118
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the man put his money in the freezer?",
+    "punchline": "He wanted cold hard cash.",
+    "id": 119
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish that wears a bowtie?",
+    "punchline": "Sofishticated.",
+    "id": 120
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't clouds ever go to college?",
+    "punchline": "They already have a lot of degrees.",
+    "id": 121
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a potato that's reluctant to jump into boiling water?",
+    "punchline": "A hesi-tater.",
+    "id": 122
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the student bring scissors to class?",
+    "punchline": "He wanted to cut class.",
+    "id": 123
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore.",
+    "id": 124
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't oysters donate to charity?",
+    "punchline": "Because they're shellfish.",
+    "id": 125
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a deer with no eyes and no legs?",
+    "punchline": "Still no idea.",
+    "id": 126
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the golfer wear two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "id": 127
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a snobbish criminal going downstairs?",
+    "punchline": "A condescending con descending.",
+    "id": 128
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't cannibals eat clowns?",
+    "punchline": "They taste funny.",
+    "id": 129
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a cow with a twitch?",
+    "punchline": "Beef jerky.",
+    "id": 130
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the football coach go to the bank?",
+    "punchline": "To get his quarterback.",
+    "id": 131
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a group of disorganized cats?",
+    "punchline": "A cat-astrophe.",
+    "id": 132
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't leopards play hide and seek?",
+    "punchline": "Because they're always spotted.",
+    "id": 133
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a laughing motorcycle?",
+    "punchline": "A Yamahahaha.",
+    "id": 134
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cookie go to the hospital?",
+    "punchline": "Because it felt crumbly.",
+    "id": 135
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a frozen dog?",
+    "punchline": "A pupsicle.",
+    "id": 136
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't ants ever get sick?",
+    "punchline": "Because they have little anty-bodies.",
+    "id": 137
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a chicken at the North Pole?",
+    "punchline": "Lost.",
+    "id": 138
+  },
+  {
+    "type": "animals",
+    "setup": "Why did the pony get sent to his room?",
+    "punchline": "He wouldn't stop horsing around.",
+    "id": 139
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a sad strawberry?",
+    "punchline": "A blueberry.",
+    "id": 140
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't mountains get cold in winter?",
+    "punchline": "They wear snowcaps.",
+    "id": 141
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop.",
+    "id": 142
+  },
+  {
+    "type": "food",
+    "setup": "Why did the coffee call the police?",
+    "punchline": "It got mugged.",
+    "id": 143
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a ghost's true love?",
+    "punchline": "His ghoul-friend.",
+    "id": 144
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't cats play poker in the jungle?",
+    "punchline": "Too many cheetahs.",
+    "id": 145
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a penguin in the Sahara desert?",
+    "punchline": "Lost.",
+    "id": 146
+  },
+  {
+    "type": "food",
+    "setup": "Why did the banana go to the hairdresser?",
+    "punchline": "Because it had split ends.",
+    "id": 147
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a sheep covered in chocolate?",
+    "punchline": "A candy baa.",
+    "id": 148
+  },
+  {
+    "type": "objects",
+    "setup": "Why don't pencils ever win at sports?",
+    "punchline": "They always draw.",
+    "id": 149
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a boomerang that doesn't work?",
+    "punchline": "A stick.",
+    "id": 150
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the robber take a bath?",
+    "punchline": "He wanted to make a clean getaway.",
+    "id": 151
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer.",
+    "id": 152
+  },
+  {
+    "type": "animals",
+    "setup": "Why don't some fish play piano?",
+    "punchline": "Because you can't tuna fish.",
+    "id": 153
+  },
+  {
+    "type": "wordplay",
+    "setup": "What do you call a parade of bunnies hopping backwards?",
+    "punchline": "A receding hare-line.",
+    "id": 154
+  },
+  {
+    "type": "objects",
+    "setup": "Why did the phone wear glasses?",
+    "punchline": "It lost its contacts.",
+    "id": 155
+  },
+  {
+    "type": "food",
+    "setup": "What do you call a fancy lemon?",
+    "punchline": "Sophis-ti-citrus.",
+    "id": 156
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear with no ears?",
+    "punchline": "B.",
+    "id": 157
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the algebra book go to therapy?",
+    "punchline": "It had too many variables.",
+    "id": 158
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a broken pencil?",
+    "punchline": "Pointless.",
+    "id": 159
+  },
+  {
+    "type": "food",
+    "setup": "Why did the bread go to the doctor?",
+    "punchline": "It was feeling crumby.",
+    "id": 160
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dinosaur that's a noisy sleeper?",
+    "punchline": "A Bronto-snorus.",
+    "id": 161
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't eggs make good comedians?",
+    "punchline": "They always crack up.",
+    "id": 162
+  },
+  {
+    "type": "objects",
+    "setup": "What did the calculator say to the student?",
+    "punchline": "You can count on me.",
+    "id": 163
+  },
+  {
+    "type": "food",
+    "setup": "Why did the grape stop in the middle of the road?",
+    "punchline": "It ran out of juice.",
+    "id": 164
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore.",
+    "id": 165
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the skeleton go to the party alone?",
+    "punchline": "He had no body to go with.",
+    "id": 166
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a shoe made out of a banana?",
+    "punchline": "A slipper.",
+    "id": 167
+  },
+  {
+    "type": "food",
+    "setup": "Why did the carrot win an award?",
+    "punchline": "It was outstanding in its field.",
+    "id": 168
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a flying skunk?",
+    "punchline": "A smellicopter.",
+    "id": 169
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the math teacher retire?",
+    "punchline": "She had too many problems.",
+    "id": 170
+  },
+  {
+    "type": "objects",
+    "setup": "What did the paper say to the pencil?",
+    "punchline": "Write on!",
+    "id": 171
+  },
+  {
+    "type": "food",
+    "setup": "Why did the doughnut go to the dentist?",
+    "punchline": "To get a filling.",
+    "id": 172
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a snake that builds things?",
+    "punchline": "A boa constructor.",
+    "id": 173
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't oysters share their pearls?",
+    "punchline": "Because they're shellfish.",
+    "id": 174
+  },
+  {
+    "type": "objects",
+    "setup": "What did one hat say to the other?",
+    "punchline": "You stay here, I'll go on ahead.",
+    "id": 175
+  },
+  {
+    "type": "food",
+    "setup": "Why did the apple go to the doctor?",
+    "punchline": "It wasn't peeling well.",
+    "id": 176
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a pig that knows martial arts?",
+    "punchline": "A pork chop.",
+    "id": 177
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the sun go to school?",
+    "punchline": "To get brighter.",
+    "id": 178
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a train that sneezes?",
+    "punchline": "Achoo-choo train.",
+    "id": 179
+  },
+  {
+    "type": "food",
+    "setup": "Why did the yogurt go to the art museum?",
+    "punchline": "Because it was cultured.",
+    "id": 180
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bee having a bad day?",
+    "punchline": "A grumblebee.",
+    "id": 181
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the moon skip dinner?",
+    "punchline": "It was full.",
+    "id": 182
+  },
+  {
+    "type": "objects",
+    "setup": "What did the traffic light say to the car?",
+    "punchline": "Don't look, I'm changing!",
+    "id": 183
+  },
+  {
+    "type": "food",
+    "setup": "Why did the peanut go to the police?",
+    "punchline": "It was assaulted.",
+    "id": 184
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear in a raincoat?",
+    "punchline": "A drizzly bear.",
+    "id": 185
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the photograph go to jail?",
+    "punchline": "It was framed.",
+    "id": 186
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a sleeping bag?",
+    "punchline": "A nap sack.",
+    "id": 187
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pickle go to the party?",
+    "punchline": "Because it was kind of a big dill.",
+    "id": 188
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a rabbit with no clothes?",
+    "punchline": "Hare-naked.",
+    "id": 189
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why was the broom late?",
+    "punchline": "It over-swept.",
+    "id": 190
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a magical dog?",
+    "punchline": "A labracadabrador.",
+    "id": 191
+  },
+  {
+    "type": "food",
+    "setup": "Why did the ice cream truck break down?",
+    "punchline": "It had a rocky road.",
+    "id": 192
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator.",
+    "id": 193
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the golfer bring extra socks?",
+    "punchline": "In case he got a hole in one.",
+    "id": 194
+  },
+  {
+    "type": "objects",
+    "setup": "What did the big flower say to the little flower?",
+    "punchline": "Hi, bud!",
+    "id": 195
+  },
+  {
+    "type": "food",
+    "setup": "Why did the bacon laugh?",
+    "punchline": "Because the egg cracked a yolk.",
+    "id": 196
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a cat that lives in an igloo?",
+    "punchline": "An eskimew.",
+    "id": 197
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the calendar get in trouble?",
+    "punchline": "Its days were numbered.",
+    "id": 198
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a book club that's been stuck on one book?",
+    "punchline": "Church.",
+    "id": 199
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cheese fail the test?",
+    "punchline": "It was too cheesy.",
+    "id": 200
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sheep with no legs?",
+    "punchline": "A cloud.",
+    "id": 201
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why don't some couples go to the gym?",
+    "punchline": "Because some relationships don't work out.",
+    "id": 202
+  },
+  {
+    "type": "objects",
+    "setup": "What do you call a belt with a watch on it?",
+    "punchline": "A waist of time.",
+    "id": 203
+  },
+  {
+    "type": "food",
+    "setup": "Why did the sandwich go to the party?",
+    "punchline": "It was on a roll.",
+    "id": 204
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a cold dog?",
+    "punchline": "A chili dog.",
+    "id": 205
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scarecrow get promoted?",
+    "punchline": "He was outstanding in his field.",
+    "id": 206
+  },
+  {
+    "type": "objects",
+    "setup": "What did the left eye say to the right eye?",
+    "punchline": "Between you and me, something smells.",
+    "id": 207
+  },
+  {
+    "type": "food",
+    "setup": "Why did the gum cross the road?",
+    "punchline": "It was stuck to the chicken's foot.",
+    "id": 208
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish with a tie?",
+    "punchline": "Sofishticated.",
+    "id": 209
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why was the geometry book sad?",
+    "punchline": "Because it had too many problems.",
+    "id": 210
+  },
+  {
+    "type": "objects",
+    "setup": "What did the stamp say to the envelope?",
+    "punchline": "Stick with me and we'll go places.",
+    "id": 211
+  },
+  {
+    "type": "food",
+    "setup": "Why did the meatball go to the dance?",
+    "punchline": "Because it was having a ball.",
+    "id": 212
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a lazy joey?",
+    "punchline": "A pouch potato.",
+    "id": 213
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the tomato blush?",
+    "punchline": "It saw the salad dressing.",
+    "id": 214
+  },
+  {
+    "type": "objects",
+    "setup": "What did the volcano say to the mountain?",
+    "punchline": "I lava you.",
+    "id": 215
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cookie go to the nurse?",
+    "punchline": "It felt crumbly.",
+    "id": 216
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dinosaur with a rich vocabulary?",
+    "punchline": "A thesaurus.",
+    "id": 217
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the bicycle fall down?",
+    "punchline": "It was two-tired.",
+    "id": 218
+  },
+  {
+    "type": "objects",
+    "setup": "What did the penny say to the other penny?",
+    "punchline": "We make cents together.",
+    "id": 219
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pretzel go to the doctor?",
+    "punchline": "It was feeling twisted.",
+    "id": 220
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a horse that plays guitar?",
+    "punchline": "A rock stallion.",
+    "id": 221
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the belt go to jail?",
+    "punchline": "For holding up pants.",
+    "id": 222
+  },
+  {
+    "type": "objects",
+    "setup": "What did the beach say to the tide?",
+    "punchline": "Long time, no sea.",
+    "id": 223
+  },
+  {
+    "type": "food",
+    "setup": "Why did the waiter bring a ladder to work?",
+    "punchline": "For the high steaks.",
+    "id": 224
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a duck that gets good grades?",
+    "punchline": "A wise quacker.",
+    "id": 225
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the picture go to prison?",
+    "punchline": "It was framed.",
+    "id": 226
+  },
+  {
+    "type": "objects",
+    "setup": "What did the zero say to the eight?",
+    "punchline": "Nice belt!",
+    "id": 227
+  },
+  {
+    "type": "food",
+    "setup": "Why did the fruit salad break up?",
+    "punchline": "It couldn't find a decent date.",
+    "id": 228
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a penguin in the desert?",
+    "punchline": "Lost.",
+    "id": 229
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the student eat his homework?",
+    "punchline": "The teacher said it was a piece of cake.",
+    "id": 230
+  },
+  {
+    "type": "objects",
+    "setup": "What did the triangle say to the circle?",
+    "punchline": "You're pointless.",
+    "id": 231
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cupcake go to the doctor?",
+    "punchline": "It was feeling crummy.",
+    "id": 232
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping T-Rex?",
+    "punchline": "A dino-snore.",
+    "id": 233
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the clock get kicked out of class?",
+    "punchline": "It was tocking too much.",
+    "id": 234
+  },
+  {
+    "type": "objects",
+    "setup": "What did the blanket say to the bed?",
+    "punchline": "Don't worry, I've got you covered.",
+    "id": 235
+  },
+  {
+    "type": "food",
+    "setup": "Why did the corn get promoted?",
+    "punchline": "It was a-maize-ing.",
+    "id": 236
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a baby whale?",
+    "punchline": "A little squirt.",
+    "id": 237
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the computer go to the doctor?",
+    "punchline": "It had a virus.",
+    "id": 238
+  },
+  {
+    "type": "objects",
+    "setup": "What did one plate say to another?",
+    "punchline": "Dinner's on me.",
+    "id": 239
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pepper make everyone laugh?",
+    "punchline": "It was jalapeño business.",
+    "id": 240
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a group of musical whales?",
+    "punchline": "An orca-stra.",
+    "id": 241
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the stadium get hot?",
+    "punchline": "All the fans left.",
+    "id": 242
+  },
+  {
+    "type": "objects",
+    "setup": "What did the window say to the door?",
+    "punchline": "What are you pane-ing about?",
+    "id": 243
+  },
+  {
+    "type": "food",
+    "setup": "Why did the soup go to the gym?",
+    "punchline": "To get shredded.",
+    "id": 244
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a rabbit with fleas?",
+    "punchline": "Bugs Bunny.",
+    "id": 245
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the tree go to the dentist?",
+    "punchline": "It needed a root canal.",
+    "id": 246
+  },
+  {
+    "type": "objects",
+    "setup": "What did the rug say to the floor?",
+    "punchline": "Don't move, I've got you covered.",
+    "id": 247
+  },
+  {
+    "type": "food",
+    "setup": "Why did the popcorn go to the movies?",
+    "punchline": "To see a kernel of truth.",
+    "id": 248
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a lazy kangaroo?",
+    "punchline": "A pouch potato.",
+    "id": 249
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the light bulb fail school?",
+    "punchline": "It wasn't very bright.",
+    "id": 250
+  },
+  {
+    "type": "objects",
+    "setup": "What did the scissors say to the paper?",
+    "punchline": "Cut it out!",
+    "id": 251
+  },
+  {
+    "type": "food",
+    "setup": "Why did the strawberry cry?",
+    "punchline": "Its parents were in a jam.",
+    "id": 252
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear.",
+    "id": 253
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the music teacher go to jail?",
+    "punchline": "She got caught with notes.",
+    "id": 254
+  },
+  {
+    "type": "objects",
+    "setup": "What did the elevator say to its passengers?",
+    "punchline": "I'm glad to bring you up.",
+    "id": 255
+  },
+  {
+    "type": "food",
+    "setup": "Why did the watermelon have a big wedding?",
+    "punchline": "It cantaloupe.",
+    "id": 256
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a monkey in a minefield?",
+    "punchline": "A baboom.",
+    "id": 257
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scarecrow win a Nobel Prize?",
+    "punchline": "He was outstanding in his field.",
+    "id": 258
+  },
+  {
+    "type": "objects",
+    "setup": "What did the calculator say to the math student?",
+    "punchline": "You can count on me.",
+    "id": 259
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cereal go to the doctor?",
+    "punchline": "It was feeling crunch-y.",
+    "id": 260
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a psychic duck?",
+    "punchline": "A quack medium.",
+    "id": 261
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the cop go to the baseball game?",
+    "punchline": "He heard someone stole a base.",
+    "id": 262
+  },
+  {
+    "type": "objects",
+    "setup": "What did the wall say to the ceiling?",
+    "punchline": "I'll meet you at the corner.",
+    "id": 263
+  },
+  {
+    "type": "food",
+    "setup": "Why did the chef get in trouble?",
+    "punchline": "He got caught beating an egg.",
+    "id": 264
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish wearing a crown?",
+    "punchline": "King of the sea.",
+    "id": 265
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "id": 266
+  },
+  {
+    "type": "objects",
+    "setup": "What did the glue say to the teacher?",
+    "punchline": "I'm stuck on you.",
+    "id": 267
+  },
+  {
+    "type": "food",
+    "setup": "Why did the bread go to therapy?",
+    "punchline": "It had too many issues to knead out.",
+    "id": 268
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a cow that plays guitar?",
+    "punchline": "A moo-sician.",
+    "id": 269
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the gym close?",
+    "punchline": "It just didn't work out.",
+    "id": 270
+  },
+  {
+    "type": "objects",
+    "setup": "What did the mailbox say to the letter?",
+    "punchline": "You've got mail!",
+    "id": 271
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pizza go to the doctor?",
+    "punchline": "It was feeling saucy.",
+    "id": 272
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a nervous octopus?",
+    "punchline": "A worrywart with eight arms.",
+    "id": 273
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the banker switch careers?",
+    "punchline": "He lost interest.",
+    "id": 274
+  },
+  {
+    "type": "objects",
+    "setup": "What did the remote say to the TV?",
+    "punchline": "I'm in control here.",
+    "id": 275
+  },
+  {
+    "type": "food",
+    "setup": "Why did the avocado go to the spa?",
+    "punchline": "It wanted to become guac-and-roll.",
+    "id": 276
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bee from America?",
+    "punchline": "A USB.",
+    "id": 277
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the astronaut break up with his girlfriend?",
+    "punchline": "He needed space.",
+    "id": 278
+  },
+  {
+    "type": "objects",
+    "setup": "What did the keyboard say to the mouse?",
+    "punchline": "You click with me.",
+    "id": 279
+  },
+  {
+    "type": "food",
+    "setup": "Why did the raisin go out with the prune?",
+    "punchline": "It couldn't find a date.",
+    "id": 280
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sheep covered in chocolate?",
+    "punchline": "A candy baa.",
+    "id": 281
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the shoe go to therapy?",
+    "punchline": "It had too many sole-searching issues.",
+    "id": 282
+  },
+  {
+    "type": "objects",
+    "setup": "What did the lamp say to the switch?",
+    "punchline": "You turn me on.",
+    "id": 283
+  },
+  {
+    "type": "food",
+    "setup": "Why did the taco go to the beach?",
+    "punchline": "To get a little shell-fish.",
+    "id": 284
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer.",
+    "id": 285
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scarecrow become a motivational speaker?",
+    "punchline": "He was outstanding in his field.",
+    "id": 286
+  },
+  {
+    "type": "objects",
+    "setup": "What did the thermometer say to the graduated cylinder?",
+    "punchline": "You may have graduated but I have more degrees.",
+    "id": 287
+  },
+  {
+    "type": "food",
+    "setup": "Why did the butter go to therapy?",
+    "punchline": "It was on a roll and couldn't stop spreading itself thin.",
+    "id": 288
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dinosaur that's afraid?",
+    "punchline": "A nervous Rex.",
+    "id": 289
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the smartphone need therapy?",
+    "punchline": "It had attachment issues.",
+    "id": 290
+  },
+  {
+    "type": "objects",
+    "setup": "What did the comb say to the hair?",
+    "punchline": "I'll always be here to straighten things out.",
+    "id": 291
+  },
+  {
+    "type": "food",
+    "setup": "Why did the milk go to school?",
+    "punchline": "To get pasteurized.",
+    "id": 292
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dog that does magic?",
+    "punchline": "A labracadabrador.",
+    "id": 293
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the comma break up with the apostrophe?",
+    "punchline": "It was too possessive.",
+    "id": 294
+  },
+  {
+    "type": "objects",
+    "setup": "What did the shoelace say to the shoe?",
+    "punchline": "I'm tied up right now.",
+    "id": 295
+  },
+  {
+    "type": "food",
+    "setup": "Why did the salad go to the party?",
+    "punchline": "It was dressed for the occasion.",
+    "id": 296
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sophisticated fish?",
+    "punchline": "Sofishticated.",
+    "id": 297
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the cloud date the fog?",
+    "punchline": "He was so down to earth.",
+    "id": 298
+  },
+  {
+    "type": "objects",
+    "setup": "What did the mirror say to the person?",
+    "punchline": "I see you.",
+    "id": 299
+  },
+  {
+    "type": "food",
+    "setup": "Why did the French fry propose?",
+    "punchline": "It found its perfect match.",
+    "id": 300
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a reptile that works for the government?",
+    "punchline": "A civil serpent.",
+    "id": 301
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the music note go to jail?",
+    "punchline": "It was caught in treble.",
+    "id": 302
+  },
+  {
+    "type": "objects",
+    "setup": "What did the sock say to the foot?",
+    "punchline": "You're the perfect fit.",
+    "id": 303
+  },
+  {
+    "type": "food",
+    "setup": "Why did the honey go to the doctor?",
+    "punchline": "It wasn't bee-having well.",
+    "id": 304
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish with no eyes?",
+    "punchline": "Fsh.",
+    "id": 305
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the dictionary go to therapy?",
+    "punchline": "It had too many definitions of itself.",
+    "id": 306
+  },
+  {
+    "type": "objects",
+    "setup": "What did the eraser say to the pencil?",
+    "punchline": "You make a good point.",
+    "id": 307
+  },
+  {
+    "type": "food",
+    "setup": "Why did the hamburger go to the gym?",
+    "punchline": "To get better buns.",
+    "id": 308
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a mosquito on vacation?",
+    "punchline": "An itch-hiker.",
+    "id": 309
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the bicycle quit its job?",
+    "punchline": "It was two tired of working.",
+    "id": 310
+  },
+  {
+    "type": "objects",
+    "setup": "What did the seatbelt say to the car?",
+    "punchline": "Click it or ticket.",
+    "id": 311
+  },
+  {
+    "type": "food",
+    "setup": "Why did the onion win an award?",
+    "punchline": "It was a real tear-jerker.",
+    "id": 312
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a woodpecker with no beak?",
+    "punchline": "A headbanger.",
+    "id": 313
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the gardener plant light bulbs?",
+    "punchline": "He wanted to grow a power plant.",
+    "id": 314
+  },
+  {
+    "type": "objects",
+    "setup": "What did the roof say to the house?",
+    "punchline": "I've got you covered.",
+    "id": 315
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pie go to the dentist?",
+    "punchline": "It needed a filling.",
+    "id": 316
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a turtle that flies?",
+    "punchline": "A shell-icopter.",
+    "id": 317
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scientist install a knocker?",
+    "punchline": "He wanted to win the No-bell prize.",
+    "id": 318
+  },
+  {
+    "type": "objects",
+    "setup": "What did the ocean say to the sailboat?",
+    "punchline": "Nothing, it just waved.",
+    "id": 319
+  },
+  {
+    "type": "food",
+    "setup": "Why did the lemon fail its driving test?",
+    "punchline": "It kept peeling out.",
+    "id": 320
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear with extreme mood swings?",
+    "punchline": "A bi-polar bear.",
+    "id": 321
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the accountant break up with the calculator?",
+    "punchline": "She felt he was just using her.",
+    "id": 322
+  },
+  {
+    "type": "objects",
+    "setup": "What did the door say to the doorbell?",
+    "punchline": "You really know how to push my buttons.",
+    "id": 323
+  },
+  {
+    "type": "food",
+    "setup": "Why did the hot dog turn down the job?",
+    "punchline": "The salary was too meager.",
+    "id": 324
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a polar bear in the jungle?",
+    "punchline": "Lost.",
+    "id": 325
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the skeleton refuse to go skydiving?",
+    "punchline": "He didn't have the guts.",
+    "id": 326
+  },
+  {
+    "type": "objects",
+    "setup": "What did the battery say to the charger?",
+    "punchline": "Thanks for the energy boost.",
+    "id": 327
+  },
+  {
+    "type": "food",
+    "setup": "Why did the chip go to the doctor?",
+    "punchline": "It felt crumby.",
+    "id": 328
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a chicken staring at lettuce?",
+    "punchline": "Chicken sees a salad.",
+    "id": 329
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the rope go to school?",
+    "punchline": "To get a little more knot-ledge.",
+    "id": 330
+  },
+  {
+    "type": "objects",
+    "setup": "What did the fork say to the spoon?",
+    "punchline": "Who was that ladle I saw you with?",
+    "id": 331
+  },
+  {
+    "type": "food",
+    "setup": "Why did the walnut go to the doctor?",
+    "punchline": "It was feeling a little nutty.",
+    "id": 332
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a laughing jar of mayonnaise?",
+    "punchline": "LMAYO.",
+    "id": 333
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the fireman wear red suspenders?",
+    "punchline": "To keep his pants up.",
+    "id": 334
+  },
+  {
+    "type": "objects",
+    "setup": "What did the fan say to the person?",
+    "punchline": "I'm your biggest fan.",
+    "id": 335
+  },
+  {
+    "type": "food",
+    "setup": "Why did the bagel go to the doctor?",
+    "punchline": "It had a hole in it.",
+    "id": 336
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a camel with no humps?",
+    "punchline": "Humphrey.",
+    "id": 337
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the can crusher quit his job?",
+    "punchline": "It was soda pressing.",
+    "id": 338
+  },
+  {
+    "type": "objects",
+    "setup": "What did the oven say to the chicken?",
+    "punchline": "I'll make you hot!",
+    "id": 339
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pear go out with the banana?",
+    "punchline": "Because it couldn't find a date.",
+    "id": 340
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A stega-snore-us.",
+    "id": 341
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the tomato go out with a prune?",
+    "punchline": "Because it couldn't find a date.",
+    "id": 342
+  },
+  {
+    "type": "objects",
+    "setup": "What did the pillow say to the blanket?",
+    "punchline": "I've got your back.",
+    "id": 343
+  },
+  {
+    "type": "food",
+    "setup": "Why did the butter get in trouble?",
+    "punchline": "It was on a roll.",
+    "id": 344
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fake cat?",
+    "punchline": "A purr-tender.",
+    "id": 345
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the baker stop making donuts?",
+    "punchline": "He was tired of the hole business.",
+    "id": 346
+  },
+  {
+    "type": "objects",
+    "setup": "What did the desk say to the chair?",
+    "punchline": "Have a seat!",
+    "id": 347
+  },
+  {
+    "type": "food",
+    "setup": "Why did the sugar cube go to the doctor?",
+    "punchline": "It was feeling a bit grainy.",
+    "id": 348
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a group of bunnies hopping backwards?",
+    "punchline": "A receding hare line.",
+    "id": 349
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the man run around his bed?",
+    "punchline": "To catch up on his sleep.",
+    "id": 350
+  },
+  {
+    "type": "objects",
+    "setup": "What did the book say to the bookmark?",
+    "punchline": "I'm glad you're here to save my place.",
+    "id": 351
+  },
+  {
+    "type": "food",
+    "setup": "Why did the muffin go to therapy?",
+    "punchline": "It had too many crumbly issues.",
+    "id": 352
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a cow with a sense of humor?",
+    "punchline": "Laughing stock.",
+    "id": 353
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the golfer bring an extra shirt?",
+    "punchline": "In case he got a hole in one.",
+    "id": 354
+  },
+  {
+    "type": "objects",
+    "setup": "What did the fence say to the gate?",
+    "punchline": "You're really opening up to me.",
+    "id": 355
+  },
+  {
+    "type": "food",
+    "setup": "Why did the noodle go to the party?",
+    "punchline": "To pasta time.",
+    "id": 356
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sheep doing karate?",
+    "punchline": "A lamb chop.",
+    "id": 357
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the math book see a therapist?",
+    "punchline": "It had too many problems.",
+    "id": 358
+  },
+  {
+    "type": "objects",
+    "setup": "What did the microwave say to the food?",
+    "punchline": "Is it hot in here or is it just you?",
+    "id": 359
+  },
+  {
+    "type": "food",
+    "setup": "Why did the blueberry turn blue?",
+    "punchline": "It was holding its breath.",
+    "id": 360
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a monkey that loves Doritos?",
+    "punchline": "A chipmunk.",
+    "id": 361
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the tomato turn to the dark side?",
+    "punchline": "Because it couldn't ketchup.",
+    "id": 362
+  },
+  {
+    "type": "objects",
+    "setup": "What did the lightbulb say to the generator?",
+    "punchline": "You spark joy in me.",
+    "id": 363
+  },
+  {
+    "type": "food",
+    "setup": "Why did the bread loaf feel sad?",
+    "punchline": "Its life was crumbling apart.",
+    "id": 364
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dog with a fever?",
+    "punchline": "A hot dog.",
+    "id": 365
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the banker quit?",
+    "punchline": "He lost interest.",
+    "id": 366
+  },
+  {
+    "type": "objects",
+    "setup": "What did the paint say to the wall?",
+    "punchline": "One more crack and I'll plaster you!",
+    "id": 367
+  },
+  {
+    "type": "food",
+    "setup": "Why did the cracker go to the doctor?",
+    "punchline": "It was feeling crumby.",
+    "id": 368
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a spider that just got married?",
+    "punchline": "A newly web.",
+    "id": 369
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the computer programmer go broke?",
+    "punchline": "He used up all his cache.",
+    "id": 370
+  },
+  {
+    "type": "objects",
+    "setup": "What did the button say to the shirt?",
+    "punchline": "Stick with me and we'll go places.",
+    "id": 371
+  },
+  {
+    "type": "food",
+    "setup": "Why did the salt go to jail?",
+    "punchline": "For a-salt and battery.",
+    "id": 372
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fish that wears a tuxedo?",
+    "punchline": "Sofishticated.",
+    "id": 373
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the calendar feel popular?",
+    "punchline": "It had lots of dates.",
+    "id": 374
+  },
+  {
+    "type": "objects",
+    "setup": "What did the straw say to the cup?",
+    "punchline": "I'm just here for the drinks.",
+    "id": 375
+  },
+  {
+    "type": "food",
+    "setup": "Why did the olive go to the party alone?",
+    "punchline": "It couldn't find a date to the pit.",
+    "id": 376
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a lazy baby kangaroo?",
+    "punchline": "A pouch potato.",
+    "id": 377
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the electrician quit?",
+    "punchline": "The job was too shocking.",
+    "id": 378
+  },
+  {
+    "type": "objects",
+    "setup": "What did the refrigerator say to the freezer?",
+    "punchline": "You're so cool!",
+    "id": 379
+  },
+  {
+    "type": "food",
+    "setup": "Why did the coconut go to the doctor?",
+    "punchline": "It was feeling a bit nutty.",
+    "id": 380
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a lion wearing a hat?",
+    "punchline": "A dandy lion.",
+    "id": 381
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the envelope go to school?",
+    "punchline": "To get better at sealing the deal.",
+    "id": 382
+  },
+  {
+    "type": "objects",
+    "setup": "What did the nail say to the hammer?",
+    "punchline": "You really hit the nail on the head.",
+    "id": 383
+  },
+  {
+    "type": "food",
+    "setup": "Why did the spaghetti go to the dance?",
+    "punchline": "It was a pasta-bilities.",
+    "id": 384
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping dragon?",
+    "punchline": "A fire napper.",
+    "id": 385
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the circle break up with the triangle?",
+    "punchline": "There were too many points of contention.",
+    "id": 386
+  },
+  {
+    "type": "objects",
+    "setup": "What did the toothbrush say to the toothpaste?",
+    "punchline": "We make a great team.",
+    "id": 387
+  },
+  {
+    "type": "food",
+    "setup": "Why did the biscuit go to the doctor?",
+    "punchline": "It was feeling crumbly.",
+    "id": 388
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a deer with no eyes?",
+    "punchline": "No eye-deer.",
+    "id": 389
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the clock go to the principal's office?",
+    "punchline": "For tocking in class.",
+    "id": 390
+  },
+  {
+    "type": "objects",
+    "setup": "What did the tire say to the road?",
+    "punchline": "I'm tired of you.",
+    "id": 391
+  },
+  {
+    "type": "food",
+    "setup": "Why did the apple pie go to the dentist?",
+    "punchline": "It needed a filling.",
+    "id": 392
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sheep in a hot tub?",
+    "punchline": "Wool in warm water.",
+    "id": 393
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the barista get fired?",
+    "punchline": "He kept showing up in a mug shot.",
+    "id": 394
+  },
+  {
+    "type": "objects",
+    "setup": "What did the alarm clock say to the person?",
+    "punchline": "Wake up and smell the coffee!",
+    "id": 395
+  },
+  {
+    "type": "food",
+    "setup": "Why did the lime go to the doctor?",
+    "punchline": "It wasn't peeling well.",
+    "id": 396
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a religious insect?",
+    "punchline": "A pray-ing mantis.",
+    "id": 397
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the artist go to jail?",
+    "punchline": "He was framed.",
+    "id": 398
+  },
+  {
+    "type": "objects",
+    "setup": "What did the soap say to the water?",
+    "punchline": "We make a great lather.",
+    "id": 399
+  },
+  {
+    "type": "food",
+    "setup": "Why did the macaron go to school?",
+    "punchline": "To become a smartie.",
+    "id": 400
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a snake that's 3.14 meters long?",
+    "punchline": "A π-thon.",
+    "id": 401
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the farmer win an award?",
+    "punchline": "He was outstanding in his field.",
+    "id": 402
+  },
+  {
+    "type": "objects",
+    "setup": "What did the zipper say to the jacket?",
+    "punchline": "I've got you covered.",
+    "id": 403
+  },
+  {
+    "type": "food",
+    "setup": "Why did the baguette break up with the croissant?",
+    "punchline": "It was too flaky.",
+    "id": 404
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a group of cats?",
+    "punchline": "A mew-tiny.",
+    "id": 405
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the shoe salesman go to heaven?",
+    "punchline": "He had a good sole.",
+    "id": 406
+  },
+  {
+    "type": "objects",
+    "setup": "What did the needle say to the thread?",
+    "punchline": "I'm sew into you.",
+    "id": 407
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pancake go to therapy?",
+    "punchline": "It felt flat.",
+    "id": 408
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a rabbit that tells jokes?",
+    "punchline": "A funny bunny.",
+    "id": 409
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the librarian slip?",
+    "punchline": "She was in the non-friction section.",
+    "id": 410
+  },
+  {
+    "type": "objects",
+    "setup": "What did the headphones say to the music?",
+    "punchline": "You're always on my mind.",
+    "id": 411
+  },
+  {
+    "type": "food",
+    "setup": "Why did the sushi blush?",
+    "punchline": "It saw the salad dressing.",
+    "id": 412
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a parrot wearing a raincoat?",
+    "punchline": "Polly-ester.",
+    "id": 413
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the weatherman bring a ladder to work?",
+    "punchline": "The forecast called for high pressure.",
+    "id": 414
+  },
+  {
+    "type": "objects",
+    "setup": "What did the cup say to the saucer?",
+    "punchline": "I'm glad we're a set.",
+    "id": 415
+  },
+  {
+    "type": "food",
+    "setup": "Why did the ramen go to the gym?",
+    "punchline": "To get soup-er fit.",
+    "id": 416
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a confused bee?",
+    "punchline": "A may-bee.",
+    "id": 417
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the letter A go to the doctor?",
+    "punchline": "It had a-flu-enza.",
+    "id": 418
+  },
+  {
+    "type": "objects",
+    "setup": "What did the broom say to the mop?",
+    "punchline": "We really clean up together.",
+    "id": 419
+  },
+  {
+    "type": "food",
+    "setup": "Why did the wine go to school?",
+    "punchline": "To improve its bouquet.",
+    "id": 420
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bird that kicks?",
+    "punchline": "A kung-fu puffin.",
+    "id": 421
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the electrician get shocked?",
+    "punchline": "It was a re-volting experience.",
+    "id": 422
+  },
+  {
+    "type": "objects",
+    "setup": "What did the key say to the lock?",
+    "punchline": "We're a perfect match.",
+    "id": 423
+  },
+  {
+    "type": "food",
+    "setup": "Why did the fortune cookie go to therapy?",
+    "punchline": "It had too many issues to unfold.",
+    "id": 424
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a dancing lamb?",
+    "punchline": "A baaah-llerina.",
+    "id": 425
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the reporter go to the ice cream shop?",
+    "punchline": "To get the scoop.",
+    "id": 426
+  },
+  {
+    "type": "objects",
+    "setup": "What did the wallet say to the money?",
+    "punchline": "I've got you covered.",
+    "id": 427
+  },
+  {
+    "type": "food",
+    "setup": "Why did the kale go to the party?",
+    "punchline": "To turnip the beet.",
+    "id": 428
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a fashionable lawn mower?",
+    "punchline": "A grass dresser.",
+    "id": 429
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the teacher wear sunglasses?",
+    "punchline": "Her students were so bright.",
+    "id": 430
+  },
+  {
+    "type": "objects",
+    "setup": "What did the battery say to the flashlight?",
+    "punchline": "I've got the power.",
+    "id": 431
+  },
+  {
+    "type": "food",
+    "setup": "Why did the fig go to the doctor?",
+    "punchline": "It wasn't peeling well.",
+    "id": 432
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a crow that works at a bar?",
+    "punchline": "A crow-tender.",
+    "id": 433
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the scarecrow get a promotion?",
+    "punchline": "He was outstanding in his field.",
+    "id": 434
+  },
+  {
+    "type": "objects",
+    "setup": "What did the USB say to the computer?",
+    "punchline": "Let's connect.",
+    "id": 435
+  },
+  {
+    "type": "food",
+    "setup": "Why did the popsicle go to school?",
+    "punchline": "To be a little cooler.",
+    "id": 436
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bear without any socks?",
+    "punchline": "Bare-foot.",
+    "id": 437
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the traffic light turn red?",
+    "punchline": "You would too if you had to change in the middle of the street.",
+    "id": 438
+  },
+  {
+    "type": "objects",
+    "setup": "What did the drum say to the drumstick?",
+    "punchline": "You really know how to beat it.",
+    "id": 439
+  },
+  {
+    "type": "food",
+    "setup": "Why did the brownie go to the doctor?",
+    "punchline": "It felt crumbly.",
+    "id": 440
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call an elephant at the North Pole?",
+    "punchline": "Lost.",
+    "id": 441
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the two antennas get married?",
+    "punchline": "The ceremony wasn't much but the reception was excellent.",
+    "id": 442
+  },
+  {
+    "type": "objects",
+    "setup": "What did the backpack say to the student?",
+    "punchline": "I've got your back.",
+    "id": 443
+  },
+  {
+    "type": "food",
+    "setup": "Why did the turnip win the race?",
+    "punchline": "It really turned it up.",
+    "id": 444
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a sleeping bull in a field?",
+    "punchline": "A bulldozer.",
+    "id": 445
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the math teacher open a window?",
+    "punchline": "To help the problems air out.",
+    "id": 446
+  },
+  {
+    "type": "objects",
+    "setup": "What did the towel say to the beach?",
+    "punchline": "I've got you covered.",
+    "id": 447
+  },
+  {
+    "type": "food",
+    "setup": "Why did the pasta break up with the sauce?",
+    "punchline": "It was too clingy.",
+    "id": 448
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a horse that lives nearby?",
+    "punchline": "A neigh-bor.",
+    "id": 449
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the music teacher need a ladder?",
+    "punchline": "To reach the high notes.",
+    "id": 450
+  },
+  {
+    "type": "objects",
+    "setup": "What did the nose say to the finger?",
+    "punchline": "Quit picking on me!",
+    "id": 451
+  },
+  {
+    "type": "food",
+    "setup": "Why did the broccoli win the fight?",
+    "punchline": "It was well-stalked.",
+    "id": 452
+  },
+  {
+    "type": "animals",
+    "setup": "What do you call a bee that lives in America?",
+    "punchline": "A USB.",
+    "id": 453
+  },
+  {
+    "type": "wordplay",
+    "setup": "Why did the belt get arrested?",
+    "punchline": "For holding up a pair of pants.",
+    "id": 454
+  },
+  {
+    "type": "objects",
+    "setup": "What did the ceiling fan say?",
+    "punchline": "I'm a big fan of yours.",
+    "id": 455
+  },
+  {
+    "type": "food",
+    "setup": "Why did the waffle go to therapy?",
+    "punchline": "It had too many squares to work through.",
+    "id": 456
+  }
+]

@@ -11,7 +11,8 @@ import SwiftUI
 struct JokesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            JokeMainView()
+                .preferredColorScheme(.light)
         }
     }
 }
