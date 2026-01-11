@@ -13,8 +13,7 @@ enum FileError: Error {
     case noJokeAvailable
 }
 
-@MainActor
-class FetchService {
+struct FetchService {
     
     func fetchRandomJoke(type: JokeType?) async throws -> Joke {
         guard let url = Bundle.main.url(forResource: "jokes", withExtension: "json") else {
