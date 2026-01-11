@@ -38,7 +38,6 @@ The project demonstrates modern SwiftUI patterns and MVVM architecture:
 - Uses `JSONDecoder` to parse jokes from local file
 - Filters jokes by type and returns random joke from filtered results
 - Returns single `Joke` object based on optional `JokeType` parameter
-- `@MainActor` for thread-safe operations
 
 ### ViewModel
 
